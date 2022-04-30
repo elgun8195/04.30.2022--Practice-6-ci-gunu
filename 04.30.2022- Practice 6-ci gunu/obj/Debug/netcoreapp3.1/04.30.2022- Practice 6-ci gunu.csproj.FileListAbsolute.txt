@@ -1,0 +1,14 @@
+C:\Users\tu741rmps\source\repos\04.30.2022- Practice 6-ci gunu\04.30.2022- Practice 6-ci gunu\bin\Debug\netcoreapp3.1\04.30.2022- Practice 6-ci gunu.exe
+C:\Users\tu741rmps\source\repos\04.30.2022- Practice 6-ci gunu\04.30.2022- Practice 6-ci gunu\bin\Debug\netcoreapp3.1\04.30.2022- Practice 6-ci gunu.deps.json
+C:\Users\tu741rmps\source\repos\04.30.2022- Practice 6-ci gunu\04.30.2022- Practice 6-ci gunu\bin\Debug\netcoreapp3.1\04.30.2022- Practice 6-ci gunu.runtimeconfig.json
+C:\Users\tu741rmps\source\repos\04.30.2022- Practice 6-ci gunu\04.30.2022- Practice 6-ci gunu\bin\Debug\netcoreapp3.1\04.30.2022- Practice 6-ci gunu.runtimeconfig.dev.json
+C:\Users\tu741rmps\source\repos\04.30.2022- Practice 6-ci gunu\04.30.2022- Practice 6-ci gunu\bin\Debug\netcoreapp3.1\04.30.2022- Practice 6-ci gunu.dll
+C:\Users\tu741rmps\source\repos\04.30.2022- Practice 6-ci gunu\04.30.2022- Practice 6-ci gunu\bin\Debug\netcoreapp3.1\04.30.2022- Practice 6-ci gunu.pdb
+C:\Users\tu741rmps\source\repos\04.30.2022- Practice 6-ci gunu\04.30.2022- Practice 6-ci gunu\obj\Debug\netcoreapp3.1\04.30.2022- Practice 6-ci gunu.csproj.AssemblyReference.cache
+C:\Users\tu741rmps\source\repos\04.30.2022- Practice 6-ci gunu\04.30.2022- Practice 6-ci gunu\obj\Debug\netcoreapp3.1\04.30.2022- Practice 6-ci gunu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tu741rmps\source\repos\04.30.2022- Practice 6-ci gunu\04.30.2022- Practice 6-ci gunu\obj\Debug\netcoreapp3.1\04.30.2022- Practice 6-ci gunu.AssemblyInfoInputs.cache
+C:\Users\tu741rmps\source\repos\04.30.2022- Practice 6-ci gunu\04.30.2022- Practice 6-ci gunu\obj\Debug\netcoreapp3.1\04.30.2022- Practice 6-ci gunu.AssemblyInfo.cs
+C:\Users\tu741rmps\source\repos\04.30.2022- Practice 6-ci gunu\04.30.2022- Practice 6-ci gunu\obj\Debug\netcoreapp3.1\04.30.2022- Practice 6-ci gunu.csproj.CoreCompileInputs.cache
+C:\Users\tu741rmps\source\repos\04.30.2022- Practice 6-ci gunu\04.30.2022- Practice 6-ci gunu\obj\Debug\netcoreapp3.1\04.30.2022- Practice 6-ci gunu.dll
+C:\Users\tu741rmps\source\repos\04.30.2022- Practice 6-ci gunu\04.30.2022- Practice 6-ci gunu\obj\Debug\netcoreapp3.1\04.30.2022- Practice 6-ci gunu.pdb
+C:\Users\tu741rmps\source\repos\04.30.2022- Practice 6-ci gunu\04.30.2022- Practice 6-ci gunu\obj\Debug\netcoreapp3.1\04.30.2022- Practice 6-ci gunu.genruntimeconfig.cache
