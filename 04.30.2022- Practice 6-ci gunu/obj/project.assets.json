@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\tu741rmps\\source\\repos\\04.30.2022- Practice 6-ci gunu\\04.30.2022- Practice 6-ci gunu\\04.30.2022- Practice 6-ci gunu.csproj",
+      "projectUniqueName": "C:\\Users\\tu741rmps\\Desktop\\04.30.2022--Practice-6-ci-gunu\\04.30.2022- Practice 6-ci gunu\\04.30.2022- Practice 6-ci gunu.csproj",
       "projectName": "04.30.2022- Practice 6-ci gunu",
-      "projectPath": "C:\\Users\\tu741rmps\\source\\repos\\04.30.2022- Practice 6-ci gunu\\04.30.2022- Practice 6-ci gunu\\04.30.2022- Practice 6-ci gunu.csproj",
+      "projectPath": "C:\\Users\\tu741rmps\\Desktop\\04.30.2022--Practice-6-ci-gunu\\04.30.2022- Practice 6-ci gunu\\04.30.2022- Practice 6-ci gunu.csproj",
       "packagesPath": "C:\\Users\\tu741rmps\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\tu741rmps\\source\\repos\\04.30.2022- Practice 6-ci gunu\\04.30.2022- Practice 6-ci gunu\\obj\\",
+      "outputPath": "C:\\Users\\tu741rmps\\Desktop\\04.30.2022--Practice-6-ci-gunu\\04.30.2022- Practice 6-ci gunu\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
