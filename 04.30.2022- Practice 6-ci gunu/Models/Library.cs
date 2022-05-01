@@ -8,6 +8,11 @@ namespace _04._30._2022__Practice_6_ci_gunu.Models
     {
         private List<Book> _books;
 
+        public void AddBook(Book Book)
+        {
+                _books.Add(Book);
+            
+        }
         public List<Book> FindAllBooksByName(string name)
         {                        
             return _books.FindAll(x => x.Name.Contains(name));            

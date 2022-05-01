@@ -15,6 +15,8 @@ namespace _04._30._2022__Practice_6_ci_gunu
 
 
             Library library = new Library();
+            library.AddBook(book);
+
             library.FindAllBooksByName("Programming");
             library.FindAllBooksByPageCountRange(10, 300);
             library.RemoveAllBooksByName("Programming");
